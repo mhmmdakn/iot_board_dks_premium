@@ -6,8 +6,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "d:/projeler/Martur/dikis_tansiyon_premium/kod/dikis_tansiyon_premium_v1/include",
-                "d:/projeler/Martur/dikis_tansiyon_premium/kod/dikis_tansiyon_premium_v1/src",
+                "d:/projeler/Martur/dikis_tansiyon_premium/kod/DKS_PRE/include",
+                "d:/projeler/Martur/dikis_tansiyon_premium/kod/DKS_PRE/src",
                 "C:/Users/RealTekno/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "C:/Users/RealTekno/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                 "C:/Users/RealTekno/.platformio/packages/framework-arduinoespressif32/libraries/SD/src",
@@ -102,8 +102,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "d:/projeler/Martur/dikis_tansiyon_premium/kod/dikis_tansiyon_premium_v1/include",
-                    "d:/projeler/Martur/dikis_tansiyon_premium/kod/dikis_tansiyon_premium_v1/src",
+                    "d:/projeler/Martur/dikis_tansiyon_premium/kod/DKS_PRE/include",
+                    "d:/projeler/Martur/dikis_tansiyon_premium/kod/DKS_PRE/src",
                     "C:/Users/RealTekno/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "C:/Users/RealTekno/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                     "C:/Users/RealTekno/.platformio/packages/framework-arduinoespressif32/libraries/SD/src",
